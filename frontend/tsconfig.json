@@ -10,6 +10,7 @@
     "experimentalDecorators": true,
     "sourceMap": true,
     "noUnusedLocals": true,
+    "skipLibCheck": true,
     "types": ["jest"],
     "paths": {
       "protractor": ["integration-tests/protractor.d.ts"]
